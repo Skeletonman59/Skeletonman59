@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skeletonman59
 - 👀 I’m interested in your maternal figure
-- 🌱 I’m currently learning C++ and Haskell
+- 🌱 I’m currently learning C++, Haskell, Prolog
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me -> message me, or massage, whichever works
 
